@@ -10,6 +10,7 @@ Release Notes.
 * Fix that traces query with tags will report error.
 * Replace e2e simple cases to e2e-v2.
 * Fix endpoint dependency breaking.
+* Fix that zipkin-receiver plugin is not packaged into dist.
 
 #### UI
 * Delete duplicate calls for endpoint dependency. 
